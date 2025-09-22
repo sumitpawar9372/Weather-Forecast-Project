@@ -1,6 +1,6 @@
 # 🌦️ Weather Forecast Dashboard - Power BI
 
-![image alt](<img width="1140" height="637" alt="image" src="https://github.com/user-attachments/assets/7bf67bad-4d96-45ac-a9de-f8a26ba4b38a" />)
+![image alt](https://github.com/sumitpawar9372/Weather-Forecast-Project/blob/3ce5b0b51588f27b6ade8841a778fc7fe7267c81/Screenshot%202025-09-22%20190002.png)
 
 ## 📌 Project Overview
 The **Weather Forecast Dashboard** is an interactive data visualization project built in **Power BI**.  
