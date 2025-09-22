@@ -1,5 +1,7 @@
 # 🌦️ Weather Forecast Dashboard - Power BI
 
+![image alt](<img width="1140" height="637" alt="image" src="https://github.com/user-attachments/assets/7bf67bad-4d96-45ac-a9de-f8a26ba4b38a" />)
+
 ## 📌 Project Overview
 The **Weather Forecast Dashboard** is an interactive data visualization project built in **Power BI**.  
 It provides insights into key weather conditions such as temperature, humidity, rainfall, wind speed, and UV index, making it easier to understand short-term and long-term weather patterns.
